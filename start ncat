@@ -1,0 +1,3 @@
+nc -lp 4444
+
+Essentially the port which is used within the payload
